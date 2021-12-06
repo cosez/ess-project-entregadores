@@ -1,11 +1,11 @@
 # Projeto Entregadores - ESS-EC 2022 
 
-Grupo X
+Grupo 4
 1. Lucas Morais de Araújo(lma6)
 2. Igor Costa da Silva Estevão de Azevedo(icsea) 
 3. Pedro Henrique Sarmento de Paula(phsp)
 4. Layse Roberta da Silva Araújo (lrsa)
-5. 
+5. Samuel Brasileiro dos Santos Neto (sbsn)
 
 
 ## Estrutura do projeto e informações necessárias
